@@ -1,0 +1,2 @@
+como se crea un componente
+ng generate component  heroes/listado
